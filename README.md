@@ -26,11 +26,8 @@
 ![App Screenshot](https://github.com/OnkarSagare27/employee-management-mysql/blob/master/screenshots/view_all_employee.png)
 
 ## Setup
-- Fork this repo
-- Clone repo
-```sh
-git clone https://github.com/OnkarSagare27/employee-management-mysql.git
-```
+ 
+ 
 - Configure stuff in ``config.json``
 ```json
 {
